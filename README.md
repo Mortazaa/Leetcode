@@ -1,2 +1,2 @@
 # Leetcode
-A collection of LeetCode problems I solved so far
+A collection of 75 Leetcode problem_sets solved. 
